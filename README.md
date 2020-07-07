@@ -1,5 +1,5 @@
 # ocsp-patch
-
+Certificate revocation checking
 Curl implementation to support ocsp method. Default curl does support only ocsp stapling.
 This patch provides:
 1. Certificate verification by contacting CA using ocsp method.
